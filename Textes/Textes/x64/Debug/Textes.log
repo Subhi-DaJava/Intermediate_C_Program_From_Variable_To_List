@@ -1,0 +1,11 @@
+﻿  chaines.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\chaines.c(20,10): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\chaines.c(20,10):
+      les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\chaines.c(20,10):
+      l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\chaines.c(20,10):
+      cet argument est utilisé comme taille de mémoire tampon
+  
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\chaines.c(66,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Textes.vcxproj -> D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Textes\x64\Debug\Textes.exe

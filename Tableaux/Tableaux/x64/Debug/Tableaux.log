@@ -1,0 +1,8 @@
+﻿  tableau.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(15,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int *'
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(15,9): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 1 de type 'int *'.
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(19,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'int *'
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(19,9): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 1 de type 'int *'.
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(27,10): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 6 est de type 'int *'
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\tableau.c(27,10): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 6 de type 'int *'.
+  Tableaux.vcxproj -> D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Tableaux\x64\Debug\Tableaux.exe

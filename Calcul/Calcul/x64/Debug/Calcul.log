@@ -1,0 +1,3 @@
+﻿  main.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Calcul\main.c(60,18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Calcul.vcxproj -> D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\Calcul\x64\Debug\Calcul.exe

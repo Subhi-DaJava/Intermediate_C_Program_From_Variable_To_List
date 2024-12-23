@@ -1,0 +1,8 @@
+﻿  incremente.c
+  main.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\ProgrammationModulaire\incremente.h(3,12): error C2129: fonction static 'int triple(int)' déclarée mais non définie
+  (compiler le fichier source 'main.c')
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\ProgrammationModulaire\incremente.h(3,12):
+      voir la déclaration de 'triple'
+  
+  Génération de code en cours...
