@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\score.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|solutionrelative:score.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\test3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A06CABD-31D4-4F03-A1C4-4773D9ABB261}|ManipulerFichier.vcxproj|solutionrelative:test3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "score.txt",
+              "DocumentMoniker": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\score.txt",
+              "RelativeDocumentMoniker": "score.txt",
+              "ToolTip": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\score.txt",
+              "RelativeToolTip": "score.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-23T19:20:19.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test3.txt",
+              "DocumentMoniker": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\test3.txt",
+              "RelativeDocumentMoniker": "test3.txt",
+              "ToolTip": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\test3.txt",
+              "RelativeToolTip": "test3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-23T19:09:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\E\\OpenClassRoom\\Learning_Program_010723\\Programmation C 041224\\ManipulerFichier\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAhwGIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-23T15:04:21.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
