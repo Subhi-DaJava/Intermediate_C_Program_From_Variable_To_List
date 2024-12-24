@@ -1,0 +1,22 @@
+﻿  main.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(9,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(9,9):
+      utilisez '%zd' dans la chaîne de format
+  
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(10,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(10,9):
+      utilisez '%zd' dans la chaîne de format
+  
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(11,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(11,9):
+      utilisez '%zd' dans la chaîne de format
+  
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(12,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(12,9):
+      utilisez '%zd' dans la chaîne de format
+  
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(21,9): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 3 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\main.c(21,9):
+      utilisez '%zd' dans la chaîne de format
+  
+  VariablesAllocationDynamique.vcxproj -> D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\VariablesAllocationDynamique\x64\Debug\VariablesAllocationDynamique.exe
