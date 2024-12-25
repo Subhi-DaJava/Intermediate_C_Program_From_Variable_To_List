@@ -1,0 +1,6 @@
+﻿  main.c
+D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\SecuriserSaisieDeTexte\main.c(19,10): warning C4477: 'scanf_s' : la chaîne de format '%s' nécessite un argument de type 'unsigned int', mais l'argument variadique 2 est de type 'size_t'
+      D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\SecuriserSaisieDeTexte\main.c(19,10):
+      cet argument est utilisé comme taille de mémoire tampon
+  
+  SecuriserSaisieDeTexte.vcxproj -> D:\E\OpenClassRoom\Learning_Program_010723\Programmation C 041224\SecuriserSaisieDeTexte\x64\Debug\SecuriserSaisieDeTexte.exe
