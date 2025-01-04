@@ -91,3 +91,5 @@ Ce projet est libre d'utilisation. Vous pouvez le copier, le distribuer, ou l'ut
 > ***Si*** tu as d'autres questions ou des ajustements à faire, n'hésite pas à demander !
 >
 > ***Si*** tu as d'autres questions ou des ajustements à faire, n'hésite pas à demander !
+
+****N.B**** : L’intégralité du projet a été réalisée avec ****Visual Studio Community**** sous Windows.
